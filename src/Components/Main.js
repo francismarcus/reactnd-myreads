@@ -1,3 +1,14 @@
+import React from 'react'
+
+class Main extends React.Component {
+  render() {
+    return(
+      <h1> Hello World </h1>
+    )
+  }
+}
+export default Main;
+
 {/*
 <div className="list-books">
   <div className="list-books-title">
