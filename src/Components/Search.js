@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
 
-class Search extends React.Compnent {
+class Search extends React.Component {
   render() {
     return(
       <div className="search-books">
