@@ -12,7 +12,6 @@ class Shelf extends React.Component {
         </ol>
       </div>
     </div>);
-    )
   }
 }
 export default Shelf;
