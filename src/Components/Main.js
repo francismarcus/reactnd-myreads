@@ -1,6 +1,22 @@
 import React from 'react'
+import * as BooksAPI from './BooksAPI';
 
 class Main extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      books: []
+    }
+  }
+
+  componentDidMount() {
+    BooksAPI.getAll().then(ajax => {
+      this.setState({books: ajax});
+      console.log(ajax);
+    })
+  }
+
+
   render() {
     return(
       <h1> Hello World </h1>

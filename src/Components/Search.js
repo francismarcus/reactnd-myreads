@@ -15,8 +15,8 @@ class Search extends React.Component {
   }
 
   componentDidMount() {
-    BooksAPI.getAll().then(resp => {
-      this.setState({books: resp});
+    BooksAPI.getAll().then(ajax => {
+      this.setState({books: ajax});
     })
   }
 
