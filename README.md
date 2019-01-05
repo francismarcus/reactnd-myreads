@@ -1,3 +1,16 @@
+### _Empty "/"_
+
+![localhost_3000_ ipad pro 1](https://user-images.githubusercontent.com/21371075/50719287-79717f00-109a-11e9-9221-08a60b14f8f2.png)
+### _Empty "/search"_
+![localhost_3000_ ipad pro 2](https://user-images.githubusercontent.com/21371075/50719293-82625080-109a-11e9-80e7-8e27c8719fca.png)
+
+### _Displaying search results_
+![localhost_3000_ ipad pro 3](https://user-images.githubusercontent.com/21371075/50719296-842c1400-109a-11e9-9dc0-45e46a82885f.png)
+
+### _Main_
+
+![localhost_3000_ ipad pro 4](https://user-images.githubusercontent.com/21371075/50719300-88f0c800-109a-11e9-90d1-73b21eb96f94.png)
+
 # MyReads Project
 
 This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
