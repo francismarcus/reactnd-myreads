@@ -2,6 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom'
 
 class Search extends React.Component {
+
   render() {
     return(
       <div className="search-books">
@@ -12,7 +13,10 @@ class Search extends React.Component {
           </div>
         </div>
         <div className="search-books-results">
-          <ol className="books-grid"></ol>
+          <ol className="books-grid">
+
+            
+          </ol>
         </div>
       </div>
 )
