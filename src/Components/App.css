@@ -53,7 +53,7 @@ body, .app {
   top: 10px;
 }
 
-.open-search button {
+.open-search a {
   display: block;
   width: 40px;
   height: 40px;
